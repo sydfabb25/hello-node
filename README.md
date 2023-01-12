@@ -1,2 +1,2 @@
 # hello-node
-hello world... UX308
+UX308 Lab 1
